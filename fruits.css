@@ -1,0 +1,17 @@
+#status
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+#detection
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+}
+canvas
+{
+    background-color: chocolate;
+    border-color: darkblue;
+    box-shadow:15px 15px 15px chartreuse;
+}
